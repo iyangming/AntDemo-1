@@ -1,0 +1,15 @@
+com.example.antdemo.BuildConfig
+com.example.antdemo.R
+com.example.antdemo.R$anim
+com.example.antdemo.R$attr
+com.example.antdemo.R$bool
+com.example.antdemo.R$color
+com.example.antdemo.R$dimen
+com.example.antdemo.R$drawable
+com.example.antdemo.R$id
+com.example.antdemo.R$integer
+com.example.antdemo.R$layout
+com.example.antdemo.R$menu
+com.example.antdemo.R$string
+com.example.antdemo.R$style
+com.example.antdemo.R$styleable
